@@ -1,2 +1,2 @@
-# Python-Day-1
-First day to my python journey
+# My Python Journey
+Let's learn Python
